@@ -1,0 +1,20 @@
+algorithm
+A set of rules for solving a problem in a given number of steps.
+bit
+A binary digit, either a 0 or 1. In the U. S. , 8 bits make up one byte; in Europe, byte equals one word.
+bug
+An error. Can be a hardware malfunction or a software programming error.
+cable
+A set of wires connecting pieces of computer hardware.
+character
+Any symbol (usually alphabetic, numeric, or punctuation) that can be entered into your computer.
+data
+Information suitable for communication, interpretation or processing by a computer.
+debug
+To detect, trace and eliminate errors in computer programs.
+execute
+To interpret a computer instruction and carry out the operations specified in the instruction.
+hub
+A device that is a center of network activity because it connects multiple networks together.
+method
+A procedure whose code implements the behavior invoked by sending a message.

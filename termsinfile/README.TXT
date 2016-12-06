@@ -1,0 +1,1 @@
+the file which the programs reads, is also in this folder, named "terms"
